@@ -10,8 +10,8 @@ Task6: https://www.hackerrank.com/contests/sda-hw-2/challenges/challenge-3088
 Task7: https://www.hackerrank.com/contests/sda-hw-2/challenges/challenge-3089
 
 3. Алгоритми за търсене    
-Task8: https://www.hackerrank.com/contests/sda-hw-3/challenges/challenge-3066
-Task9: https://www.hackerrank.com/contests/sda-hw-3/challenges/challenge-3074
+Task8: https://www.hackerrank.com/contests/sda-hw-3/challenges/challenge-3066    
+Task9: https://www.hackerrank.com/contests/sda-hw-3/challenges/challenge-3074    
 Task10: https://www.hackerrank.com/contests/sda-hw-3/challenges/doom
 
 4. Свързан списък    
@@ -20,7 +20,7 @@ Task12: https://www.hackerrank.com/contests/sda-hw-4/challenges/find-the-merge-p
 Task13: https://www.hackerrank.com/contests/sda-hw-4/challenges/delete-a-node-from-a-linked-list   
 Task14: https://www.hackerrank.com/contests/sda-hw-4/challenges/exam-5-1
 
-5.Стек и Опашка    
+5. Стек и Опашка    
 Task15: https://www.hackerrank.com/contests/sda-hw-5/challenges/lekcii   
 Task16: https://www.hackerrank.com/contests/sda-hw-5/challenges/bridge-battle-1   
 Task17: https://www.hackerrank.com/contests/sda-hw-5/challenges/challenge-2695   
