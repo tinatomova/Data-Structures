@@ -1,4 +1,4 @@
-Task1: https://www.hackerrank.com/contests/sda-hw-1/challenges/the-first-challenge-v53
+Task1: https://www.hackerrank.com/contests/sda-hw-1/challenges/the-first-challenge-v53   
 Task2: https://www.hackerrank.com/contests/sda-hw-1/challenges/challenge-3065
 Task3: https://www.hackerrank.com/contests/sda-hw-1/challenges/challenge-3068
 
