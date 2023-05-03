@@ -1,14 +1,14 @@
 Task1: https://www.hackerrank.com/contests/sda-hw-1/challenges/the-first-challenge-v53   
-Task2: https://www.hackerrank.com/contests/sda-hw-1/challenges/challenge-3065
+Task2: https://www.hackerrank.com/contests/sda-hw-1/challenges/challenge-3065   
 Task3: https://www.hackerrank.com/contests/sda-hw-1/challenges/challenge-3068
 
-## Алгоритми за сортиране
-Task4: https://www.hackerrank.com/contests/sda-hw-2/challenges/challenge-3091
-Task5: https://www.hackerrank.com/contests/sda-hw-2/challenges/logging-monitoring-alerting
-Task6: https://www.hackerrank.com/contests/sda-hw-2/challenges/challenge-3088
+1. Алгоритми за сортиране
+Task4: https://www.hackerrank.com/contests/sda-hw-2/challenges/challenge-3091   
+Task5: https://www.hackerrank.com/contests/sda-hw-2/challenges/logging-monitoring-alerting   
+Task6: https://www.hackerrank.com/contests/sda-hw-2/challenges/challenge-3088   
 Task7: https://www.hackerrank.com/contests/sda-hw-2/challenges/challenge-3089
 
-## Алгоритми за търсене
+2. Алгоритми за търсене
 Task8: https://www.hackerrank.com/contests/sda-hw-3/challenges/challenge-3066
 Task9: https://www.hackerrank.com/contests/sda-hw-3/challenges/challenge-3074
 Task10: https://www.hackerrank.com/contests/sda-hw-3/challenges/doom
