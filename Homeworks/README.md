@@ -1,3 +1,4 @@
+##  Условия    
 1. Оценка на сложност за алгоритми   
 Task1: https://www.hackerrank.com/contests/sda-hw-1/challenges/the-first-challenge-v53   
 Task2: https://www.hackerrank.com/contests/sda-hw-1/challenges/challenge-3065   
